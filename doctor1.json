@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Nguyễn Văn An",
+    "specialty": "cardiology",
+    "experience": 10,
+    "max_patients_per_shift": 3
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị Bình",
+    "specialty": "dermatology", 
+    "experience": 8,
+    "max_patients_per_shift": 4
+  },
+  {
+    "id": 3,
+    "name": "Lê Văn Cường",
+    "specialty": "orthopedics",
+    "experience": 15,
+    "max_patients_per_shift": 2
+  },
+  {
+    "id": 4,
+    "name": "Phạm Thị Dung",
+    "specialty": "pediatrics",
+    "experience": 5,
+    "max_patients_per_shift": 5
+  },
+  {
+    "id": 5,
+    "name": "Hoàng Văn Em",
+    "specialty": "neurology",
+    "experience": 12,
+    "max_patients_per_shift": 3
+  },
+  {
+    "id": 6,
+    "name": "Vũ Thị Phương",
+    "specialty": "cardiology",
+    "experience": 7,
+    "max_patients_per_shift": 3
+  },
+  {
+    "id": 7,
+    "name": "Đỗ Văn Giang",
+    "specialty": "dermatology",
+    "experience": 6,
+    "max_patients_per_shift": 4
+  },
+  {
+    "id": 8,
+    "name": "Ngô Thị Hương",
+    "specialty": "orthopedics",
+    "experience": 9,
+    "max_patients_per_shift": 2
+  },
+  {
+    "id": 9,
+    "name": "Bùi Văn Inh",
+    "specialty": "pediatrics",
+    "experience": 4,
+    "max_patients_per_shift": 6
+  },
+  {
+    "id": 10,
+    "name": "Lý Thị Kim",
+    "specialty": "neurology",
+    "experience": 11,
+    "max_patients_per_shift": 3
+  },
+  {
+    "id": 11,
+    "name": "Phan Văn Long",
+    "specialty": "cardiology",
+    "experience": 3,
+    "max_patients_per_shift": 2
+  },
+  {
+    "id": 12,
+    "name": "Đinh Thị Mai",
+    "specialty": "endocrinology",
+    "experience": 13,
+    "max_patients_per_shift": 3
+  },
+  {
+    "id": 13,
+    "name": "Tạ Văn Nam",
+    "specialty": "gastroenterology",
+    "experience": 14,
+    "max_patients_per_shift": 4
+  },
+  {
+    "id": 14,
+    "name": "Cao Thị Oanh",
+    "specialty": "oncology",
+    "experience": 16,
+    "max_patients_per_shift": 2
+  },
+  {
+    "id": 15,
+    "name": "Hồ Văn Phúc",
+    "specialty": "psychiatry",
+    "experience": 8,
+    "max_patients_per_shift": 4
+  },
+  {
+    "id": 16,
+    "name": "Dương Thị Quỳnh",
+    "specialty": "ophthalmology",
+    "experience": 10,
+    "max_patients_per_shift": 5
+  },
+  {
+    "id": 17,
+    "name": "Lương Văn Sơn",
+    "specialty": "urology",
+    "experience": 12,
+    "max_patients_per_shift": 3
+  },
+  {
+    "id": 18,
+    "name": "Chu Thị Tâm",
+    "specialty": "rheumatology",
+    "experience": 9,
+    "max_patients_per_shift": 3
+  },
+  {
+    "id": 19,
+    "name": "Võ Văn Tú",
+    "specialty": "pulmonology",
+    "experience": 11,
+    "max_patients_per_shift": 4
+  },
+  {
+    "id": 20,
+    "name": "Mai Thị Uyên",
+    "specialty": "nephrology",
+    "experience": 7,
+    "max_patients_per_shift": 3
+  }
+]
