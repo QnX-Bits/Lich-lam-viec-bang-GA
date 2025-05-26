@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "specialty": "cardiology",
+    "priority": 5,
+    "duration": 30,
+    "free_slots": ["0", "1", "2", "16", "17", "32", "33", "48", "49"]
+  },
+  {
+    "id": 2,
+    "specialty": "cardiology",
+    "priority": 8,
+    "duration": 45,
+    "free_slots": ["3", "4", "5", "19", "20", "35", "36", "51", "52"]
+  },
+  {
+    "id": 3,
+    "specialty": "dermatology",
+    "priority": 3,
+    "duration": 15,
+    "free_slots": ["6", "7", "8", "22", "23", "38", "39", "54", "55"]
+  },
+  {
+    "id": 4,
+    "specialty": "orthopedics",
+    "priority": 7,
+    "duration": 60,
+    "free_slots": ["9", "10", "11", "25", "26", "41", "42", "57", "58"]
+  },
+  {
+    "id": 5,
+    "specialty": "pediatrics",
+    "priority": 9,
+    "duration": 30,
+    "free_slots": ["12", "13", "14", "28", "29", "44", "45", "60", "61"]
+  },
+  {
+    "id": 6,
+    "specialty": "neurology",
+    "priority": 6,
+    "duration": 45,
+    "free_slots": ["15", "31", "47", "63", "79", "95", "111", "127", "143"]
+  },
+  {
+    "id": 7,
+    "specialty": "cardiology",
+    "priority": 4,
+    "duration": 30,
+    "free_slots": ["16", "17", "18", "32", "33", "48", "49", "64", "65"]
+  },
+  {
+    "id": 8,
+    "specialty": "dermatology",
+    "priority": 2,
+    "duration": 15,
+    "free_slots": ["19", "20", "21", "35", "36", "51", "52", "67", "68"]
+  },
+  {
+    "id": 9,
+    "specialty": "orthopedics", 
+    "priority": 8,
+    "duration": 45,
+    "free_slots": ["22", "23", "24", "38", "39", "54", "55", "70", "71"]
+  },
+  {
+    "id": 10,
+    "specialty": "pediatrics",
+    "priority": 10,
+    "duration": 30,
+    "free_slots": ["25", "26", "27", "41", "42", "57", "58", "73", "74"]
+  },
+  {
+    "id": 11,
+    "specialty": "neurology",
+    "priority": 5,
+    "duration": 60,
+    "free_slots": ["28", "29", "30", "44", "45", "60", "61", "76", "77"]
+  },
+  {
+    "id": 12,
+    "specialty": "cardiology",
+    "priority": 7,
+    "duration": 30,
+    "free_slots": ["0", "1", "16", "17", "32", "33", "48", "49", "64"]
+  },
+  {
+    "id": 13,
+    "specialty": "endocrinology",
+    "priority": 6,
+    "duration": 45,
+    "free_slots": ["3", "4", "19", "20", "35", "36", "51", "52", "67"]
+  },
+  {
+    "id": 14,
+    "specialty": "gastroenterology",
+    "priority": 8,
+    "duration": 30,
+    "free_slots": ["6", "7", "22", "23", "38", "39", "54", "55", "70"]
+  },
+  {
+    "id": 15,
+    "specialty": "oncology",
+    "priority": 10,
+    "duration": 60,
+    "free_slots": ["9", "10", "25", "26", "41", "42", "57", "58", "73"]
+  },
+  {
+    "id": 16,
+    "specialty": "psychiatry",
+    "priority": 4,
+    "duration": 45,
+    "free_slots": ["12", "13", "28", "29", "44", "45", "60", "61", "76"]
+  },
+  {
+    "id": 17,
+    "specialty": "ophthalmology",
+    "priority": 3,
+    "duration": 15,
+    "free_slots": ["15", "31", "47", "63", "79", "95", "111", "127", "143"]
+  },
+  {
+    "id": 18,
+    "specialty": "urology",
+    "priority": 7,
+    "duration": 30,
+    "free_slots": ["2", "3", "18", "19", "34", "35", "50", "51", "66"]
+  },
+  {
+    "id": 19,
+    "specialty": "rheumatology",
+    "priority": 5,
+    "duration": 45,
+    "free_slots": ["5", "6", "21", "22", "37", "38", "53", "54", "69"]
+  },
+  {
+    "id": 20,
+    "specialty": "pulmonology",
+    "priority": 8,
+    "duration": 30,
+    "free_slots": ["8", "9", "24", "25", "40", "41", "56", "57", "72"]
+  },
+  {
+    "id": 21,
+    "specialty": "nephrology",
+    "priority": 6,
+    "duration": 45,
+    "free_slots": ["11", "12", "27", "28", "43", "44", "59", "60", "75"]
+  },
+  {
+    "id": 22,
+    "specialty": "cardiology",
+    "priority": 9,
+    "duration": 15,
+    "free_slots": ["14", "15", "30", "31", "46", "47", "62", "63", "78"]
+  },
+  {
+    "id": 23,
+    "specialty": "dermatology",
+    "priority": 2,
+    "duration": 30,
+    "free_slots": ["1", "2", "17", "18", "33", "34", "49", "50", "65"]
+  },
+  {
+    "id": 24,
+    "specialty": "orthopedics",
+    "priority": 8,
+    "duration": 60,
+    "free_slots": ["4", "5", "20", "21", "36", "37", "52", "53", "68"]
+  },
+  {
+    "id": 25,
+    "specialty": "pediatrics",
+    "priority": 10,
+    "duration": 30,
+    "free_slots": ["7", "8", "23", "24", "39", "40", "55", "56", "71"]
+  },
+  {
+    "id": 26,
+    "specialty": "neurology",
+    "priority": 4,
+    "duration": 45,
+    "free_slots": ["10", "11", "26", "27", "42", "43", "58", "59", "74"]
+  },
+  {
+    "id": 27,
+    "specialty": "cardiology",
+    "priority": 6,
+    "duration": 30,
+    "free_slots": ["13", "14", "29", "30", "45", "46", "61", "62", "77"]
+  },
+  {
+    "id": 28,
+    "specialty": "endocrinology",
+    "priority": 7,
+    "duration": 45,
+    "free_slots": ["0", "16", "32", "48", "64", "80", "96", "112", "128"]
+  },
+  {
+    "id": 29,
+    "specialty": "gastroenterology",
+    "priority": 5,
+    "duration": 30,
+    "free_slots": ["3", "19", "35", "51", "67", "83", "99", "115", "131"]
+  },
+  {
+    "id": 30,
+    "specialty": "oncology",
+    "priority": 10,
+    "duration": 60,
+    "free_slots": ["6", "22", "38", "54", "70", "86", "102", "118", "134"]
+  },
+  {
+    "id": 31,
+    "specialty": "psychiatry",
+    "priority": 3,
+    "duration": 30,
+    "free_slots": ["9", "25", "41", "57", "73", "89", "105", "121", "137"]
+  },
+  {
+    "id": 32,
+    "specialty": "ophthalmology",
+    "priority": 8,
+    "duration": 15,
+    "free_slots": ["12", "28", "44", "60", "76", "92", "108", "124", "140"]
+  },
+  {
+    "id": 33,
+    "specialty": "urology",
+    "priority": 6,
+    "duration": 45,
+    "free_slots": ["15", "31", "47", "63", "79", "95", "111", "127", "143"]
+  },
+  {
+    "id": 34,
+    "specialty": "rheumatology",
+    "priority": 4,
+    "duration": 30,
+    "free_slots": ["2", "18", "34", "50", "66", "82", "98", "114", "130"]
+  },
+  {
+    "id": 35,
+    "specialty": "pulmonology",
+    "priority": 9,
+    "duration": 45,
+    "free_slots": ["5", "21", "37", "53", "69", "85", "101", "117", "133"]
+  },
+  {
+    "id": 36,
+    "specialty": "nephrology",
+    "priority": 7,
+    "duration": 30,
+    "free_slots": ["8", "24", "40", "56", "72", "88", "104", "120", "136"]
+  },
+  {
+    "id": 37,
+    "specialty": "cardiology",
+    "priority": 5,
+    "duration": 60,
+    "free_slots": ["11", "27", "43", "59", "75", "91", "107", "123", "139"]
+  },
+  {
+    "id": 38,
+    "specialty": "dermatology",
+    "priority": 2,
+    "duration": 15,
+    "free_slots": ["14", "30", "46", "62", "78", "94", "110", "126", "142"]
+  },
+  {
+    "id": 39,
+    "specialty": "orthopedics",
+    "priority": 8,
+    "duration": 45,
+    "free_slots": ["1", "17", "33", "49", "65", "81", "97", "113", "129"]
+  },
+  {
+    "id": 40,
+    "specialty": "pediatrics",
+    "priority": 10,
+    "duration": 30,
+    "free_slots": ["4", "20", "36", "52", "68", "84", "100", "116", "132"]
+  },
+  {
+    "id": 41,
+    "specialty": "neurology",
+    "priority": 6,
+    "duration": 45,
+    "free_slots": ["7", "23", "39", "55", "71", "87", "103", "119", "135"]
+  },
+  {
+    "id": 42,
+    "specialty": "cardiology",
+    "priority": 4,
+    "duration": 30,
+    "free_slots": ["10", "26", "42", "58", "74", "90", "106", "122", "138"]
+  },
+  {
+    "id": 43,
+    "specialty": "endocrinology",
+    "priority": 7,
+    "duration": 60,
+    "free_slots": ["13", "29", "45", "61", "77", "93", "109", "125", "141"]
+  },
+  {
+    "id": 44,
+    "specialty": "gastroenterology",
+    "priority": 5,
+    "duration": 15,
+    "free_slots": ["0", "1", "2", "16", "17", "18", "32", "33", "34"]
+  },
+  {
+    "id": 45,
+    "specialty": "oncology",
+    "priority": 10,
+    "duration": 45,
+    "free_slots": ["3", "4", "5", "19", "20", "21", "35", "36", "37"]
+  },
+  {
+    "id": 46,
+    "specialty": "psychiatry",
+    "priority": 3,
+    "duration": 30,
+    "free_slots": ["6", "7", "8", "22", "23", "24", "38", "39", "40"]
+  },
+  {
+    "id": 47,
+    "specialty": "ophthalmology",
+    "priority": 8,
+    "duration": 45,
+    "free_slots": ["9", "10", "11", "25", "26", "27", "41", "42", "43"]
+  },
+  {
+    "id": 48,
+    "specialty": "urology",
+    "priority": 6,
+    "duration": 30,
+    "free_slots": ["12", "13", "14", "28", "29", "30", "44", "45", "46"]
+  },
+  {
+    "id": 49,
+    "specialty": "rheumatology",
+    "priority": 4,
+    "duration": 60,
+    "free_slots": ["15", "31", "47", "63", "79", "95", "111", "127", "143"]
+  },
+  {
+    "id": 50,
+    "specialty": "pulmonology",
+    "priority": 9,
+    "duration": 15,
+    "free_slots": ["48", "49", "50", "64", "65", "66", "80", "81", "82"]
+  },
+  {
+    "id": 51,
+    "specialty": "nephrology",
+    "priority": 7,
+    "duration": 30,
+    "free_slots": ["51", "52", "53", "67", "68", "69", "83", "84", "85"]
+  },
+  {
+    "id": 52,
+    "specialty": "cardiology",
+    "priority": -1,
+    "duration": 30,
+    "free_slots": ["54", "55", "56", "70", "71", "72", "86", "87", "88"]
+  },
+  {
+    "id": 53,
+    "specialty": "dermatology",
+    "priority": 2,
+    "duration": 0,
+    "free_slots": ["57", "58", "59", "73", "74", "75", "89", "90", "91"]
+  },
+  {
+    "id": 54,
+    "specialty": "unknown_specialty",
+    "priority": 8,
+    "duration": 30,
+    "free_slots": ["60", "61", "62", "76", "77", "78", "92", "93", "94"]
+  },
+  {
+    "id": 55,
+    "specialty": "orthopedics",
+    "priority": 6,
+    "duration": 30,
+    "free_slots": []
+  },
+  {
+    "id": 56,
+    "specialty": "pediatrics",
+    "priority": 9,
+    "duration": 15,
+    "free_slots": ["500", "600", "700", "800", "900"]
+  },
+  {
+    "id": 57,
+    "specialty": "",
+    "priority": 5,
+    "duration": 30,
+    "free_slots": ["96", "97", "98", "112", "113", "114", "128", "129", "130"]
+  },
+  {
+    "id": 58,
+    "specialty": "neurology",
+    "priority": 8,
+    "duration": -15,
+    "free_slots": ["99", "100", "101", "115", "116", "117", "131", "132", "133"]
+  },
+  {
+    "id": 59,
+    "specialty": "cardiology",
+    "priority": 7,
+    "duration": 30,
+    "free_slots": ["102", "103", "104", "118", "119", "120", "134", "135", "136"]
+  },
+  {
+    "id": 60,
+    "specialty": "endocrinology",
+    "priority": 4,
+    "duration": 45,
+    "free_slots": ["105", "106", "107", "121", "122", "123", "137", "138", "139"]
+  },
+  {
+    "id": 61,
+    "specialty": "gastroenterology",
+    "priority": 10,
+    "duration": 30,
+    "free_slots": ["108", "109", "110", "124", "125", "126", "140", "141", "142"]
+  },
+  {
+    "id": 62,
+    "specialty": "oncology",
+    "priority": 6,
+    "duration": 60,
+    "free_slots": ["111", "127", "143"]
+  },
+  {
+    "id": 63,
+    "specialty": "psychiatry",
+    "priority": 3,
+    "duration": 15,
+    "free_slots": ["0", "16", "32", "48", "64", "80", "96", "112", "128", "144", "160"]
+  },
+  {
+    "id": 64,
+    "specialty": "ophthalmology",
+    "priority": 8,
+    "duration": 30,
+    "free_slots": ["1", "17", "33", "49", "65", "81", "97", "113", "129"]
+  },
+  {
+    "id": 65,
+    "specialty": "urology",
+    "priority": 5,
+    "duration": 45,
+    "free_slots": ["2", "18", "34", "50", "66", "82", "98", "114", "130"]
+  },
+  {
+    "id": 66,
+    "specialty": "cardiology",
+    "priority": 7,
+    "duration": 30,
+    "free_slots": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15"]
+  },
+  {
+    "id": 67,
+    "specialty": "dermatology",
+    "priority": 4,
+    "duration": 15,
+    "free_slots": ["16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31"]
+  },
+  {
+    "id": 68,
+    "specialty": "orthopedics",
+    "priority": 9,
+    "duration": 60,
+    "free_slots": ["32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47"]
+  },
+  {
+    "id": 69,
+    "specialty": "pediatrics",
+    "priority": 10,
+    "duration": 30,
+    "free_slots": ["48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "61", "62", "63"]
+  },
+  {
+    "id": 70,
+    "specialty": "neurology",
+    "priority": 6,
+    "duration": 45,
+    "free_slots": ["64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79"]
+  }
+]
